@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Roce de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-seda/) |
+| **Get License** | [Obtain a Music License for Roce de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dcd3b7ea237589edebe8594b325a7357b8af5e7f9bdcab994fe2eeaa9f097a8b` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

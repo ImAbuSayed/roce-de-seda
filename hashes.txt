@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce de seda
+
+This log tracks the cryptographic history and versioning for the song **Roce de seda** (roce-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T03:02:27.086741 | `v1` | `dcd3b7ea237589edebe8594b325a7357b8af5e7f9bdcab994fe2eeaa9f097a8b` | `4fbba67ec665695a9c9a8fbe23245d929af661c5ec04da4b5fc366de035a9a35` | `2026-06-17_roce-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
