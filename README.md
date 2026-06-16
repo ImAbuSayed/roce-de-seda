@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Roce de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-seda/) |
+| **Get License** | [Secure Licensing Rights for Roce de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese roce de seda me tiene volando
+> Tú y yo en la disco la noche quemando
+> Un beso robado que para el momento
+> Baby, lo nuestro es puro sentimiento
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
